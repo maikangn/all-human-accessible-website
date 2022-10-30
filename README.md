@@ -1,5 +1,6 @@
-User story #12: 
-> Als OBA lid wil ik op de website persoonlijke boekentips krijgen, zodat ik gestimuleerd wordt meer te lezen.
+![OBA](https://user-images.githubusercontent.com/1061632/191293310-64f64c1f-8b5a-42a3-8181-d0fb240ebc56.png)
+
+De Stichting Openbare Bibliotheek Amsterdam (OBA) is een culturele instelling, die zich ten doel stelt het vrije verkeer van informatie in de Amsterdamse samenleving te bevorderen. In dit project is er een redesign van het Mijn OBA platform gerealiseerd.
 
 # Titel
 <!-- Geef je project een titel en schrijf in één zin wat het is -->
