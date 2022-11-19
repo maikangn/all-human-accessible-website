@@ -8,6 +8,7 @@
     <title>Mijn OBA | Persoonlijke boekentips</title>
     <link rel="stylesheet" href="styles/styles.css">
     <link rel="icon" href="./favicon.ico" type="image/x-icon">
+    <link href="https://fonts.cdnfonts.com/css/avenir" rel="stylesheet">
   </head>
   <body>
     <main>
@@ -16,7 +17,7 @@
         <div id="wrapper" class="wrapper">
             <div id="container" class="container">
               <header id="header" class="header" role="banner">
-                <img src="assets/oba-logo.png" alt="logo" />
+                <img src="assets/oba-logo.png" alt="oba logo" /></a>
 
 
                 <div class="header-right"> 
@@ -24,13 +25,11 @@
                     <a href="#gerelateerdegebruikers">Gerelateerde gebruikers</a>
                     <a href="#uitloggen"><i class="fa fa-sign-out" style="font-size:17px;color:#ff0000"></i> Uitloggen</a>
                   </div><!-- /sidebar right header -->
-
-
               </header><!-- /header -->
                   <hr color="#ddd"> <BR>
 
               <div id="side-a" class="side-a">
-                <h2>Mijn bibliotheek</h2>
+                <h1>Mijn bibliotheek</h1>
                 <nav id="main-menu" class="main-menu" role="navigation">
                   <ul>
                     <li>
@@ -65,10 +64,11 @@
               </div><!-- /side-a -->
 
               <div id="main" class="main  two-column">
-                <h2>Persoonlijke boekentips</h2>
-                <p>Bent u op zoek naar een mooi boek? Bekijk hier uw suggesties die u wellicht wel interessant vindt <BR> om te lezen die speciaal voor u geselecteerd zijn.</p>
+                <h1>Persoonlijke boekentips</h1>
+                <p>Bent u op zoek naar een mooi boek? Bekijk hier uw suggesties die u wellicht wel interessant vindt <BR>
+                   om te lezen die speciaal voor u geselecteerd zijn.</p>
 
-                <div class="content">
+                <section class="content"> <!-- section instead of div -->
     
                   <div class="bookContainer" id="book01">
                     <div class="bookImage" id="img01"></div>
@@ -77,10 +77,10 @@
                       James Clear
                     </p>
 
-                    <p class="bookLeeslijst">
-                      Voeg toe aan mijn leeslijst
+                    <button class="leeslijst" type="button">
+                      Voeg toe aan mijn leeslijst</button>
       
-                    </p>
+                    
 
                     <div class="bookRating">
                       <span class="fa fa-star checked"></span>
@@ -96,7 +96,7 @@
                     <strong>It Ends With Us</strong><br>
                     Colleen Hoover
                     
-                    <p class="bookLeeslijst">Voeg toe aan mijn leeslijst</p>
+                    <button class="leeslijst" type="button">Voeg toe aan mijn leeslijst</button>
 
                     <div class="bookRating">
                       <span class="fa fa-star checked"></span>
@@ -111,7 +111,7 @@
                     <strong>Dat stemmetje in je hoofd</strong><br>
                     Mo Gawdat
                     
-                    <p class="bookLeeslijst">Voeg toe aan mijn leeslijst</p>
+                    <button class="leeslijst" type="button">Voeg toe aan mijn leeslijst</button>
                     <div class="bookRating">
                       <span class="fa fa-star checked"></span>
                       <span class="fa fa-star checked"></span>
@@ -123,9 +123,9 @@
                   <div class="bookContainer" id="book04">
                     <div class="bookImage" id="img04">&nbsp;</div>
                     <strong>De Alchemist</strong> <br>
-                    Paulo Coelho
+                    <p>Paulo Coelho</p>
                     
-                    <p class="bookLeeslijst">Voeg toe aan mijn leeslijst</p>
+                    <button class="leeslijst" type="button">Voeg toe aan mijn leeslijst</button>
                     <div class="bookRating">
                       <span class="fa fa-star checked"></span>
                       <span class="fa fa-star checked"></span>
@@ -135,11 +135,11 @@
                   </div>
                   
                   <div class="bookContainer" id="book05">
-                    <div class="bookImage" id="img05">&nbsp;</div>
+                    <div class="bookImage" id="img05"></div>
                     <strong>The Power of Now</strong><br/>
                     <p>Eckhart Tolle</p>
                     
-                    <p class="bookLeeslijst">Voeg toe aan mijn leeslijst</p>
+                    <button class="leeslijst" type="button">Voeg toe aan mijn leeslijst</button>
                     <div class="bookRating">
                       <span class="fa fa-star checked"></span>
                       <span class="fa fa-star checked"></span>
@@ -153,7 +153,7 @@
                     <strong>Daar waar de rivierkreeften zingen</strong><br>
                     <p>Delia Owens</p>
                     
-                    <p class="bookLeeslijst">Voeg toe aan mijn leeslijst</p>
+                    <button class="leeslijst" type="button">Voeg toe aan mijn leeslijst</button>
                     <div class="bookRating">
                       <span class="fa fa-star checked"></span>
                       <span class="fa fa-star checked"></span>
@@ -164,9 +164,9 @@
                   <div class="bookContainer" id="book07">
                     <div class="bookImage" id="img07"></div>
                     <strong>The Subtle Art of Not Giving A F*ck</strong><br/>
-                    Mark Manson
+                    <p>Mark Manson</p>
                     
-                    <p class="bookLeeslijst">Voeg toe aan mijn leeslijst</p>
+                    <button class="leeslijst" type="button">Voeg toe aan mijn leeslijst</button>
                     <div class="bookRating">
                       <span class="fa fa-star checked"></span>
                       <span class="fa fa-star checked"></span>
@@ -177,9 +177,9 @@
                   <div class="bookContainer" id="book08">
                     <div class="bookImage" id="img08"></div>
                     <strong>Fairy Tale</strong><br/>
-                    Stephen King
+                    <p>Stephen King</p>
                     
-                    <p class="bookLeeslijst">Voeg toe aan mijn leeslijst</p>
+                    <button class="leeslijst" type="button">Voeg toe aan mijn leeslijst</button>
                     <div class="bookRating">
                       <span class="fa fa-star checked"></span>
                       <span class="fa fa-star checked"></span>
@@ -190,9 +190,9 @@
                   <div class="bookContainer" id="book09">
                     <div class="bookImage" id="img09"></div>
                     <strong>To Kill A Mockingbird</strong><br/>
-                    Harper Lee
+                    <p>Harper Lee</p>
                     
-                    <p class="bookLeeslijst">Voeg toe aan mijn leeslijst</p>
+                    <button class="leeslijst" type="button">Voeg toe aan mijn leeslijst</button>
                     <div class="bookRating">
                       <span class="fa fa-star checked"></span>
                       <span class="fa fa-star checked"></span>
@@ -201,7 +201,7 @@
                       <span class="fa fa-star"></div>
                   </div>
                  
-                </div>
+                </section>
 
 
 
@@ -210,7 +210,7 @@
 
               </div><!-- /main two-column -->
               <footer id="footer" class="footer" role="footer">
-                <h5>© 2022 Openbare Bibliotheek Amsterdam</h5>
+                <p>© 2022 Openbare Bibliotheek Amsterdam</p>
               </footer><!-- /footer -->
             </div><!-- /container -->
           </div><!-- /wrapper -->
@@ -218,6 +218,5 @@
 
 
     </main>
-	<script src="index.js"></script>
   </body>
 </html>
