@@ -333,7 +333,7 @@ text-transform: uppercase;
     .bookContainer {
       vertical-align: top;
       display: grid;
-      width: 220px;
+      width: 240px;
       border-radius: 3px;
       text-align: center;
       margin: 10px 0 10px 25px;
