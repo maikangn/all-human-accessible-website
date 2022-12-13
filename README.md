@@ -8,7 +8,7 @@ De Stichting Openbare Bibliotheek Amsterdam (OBA) is een culturele instelling, d
 * Live-url: https://maikangn.github.io/all-human-accessible-website/
 ![image](https://user-images.githubusercontent.com/112856292/207362091-12c5e6bb-e7e2-4de6-926d-b56a9822e8e7.png)
 
-Op deze website worden persoonlijke boekentips weergegeven op basis van de uitleengeschiedenis. Ook is er een optie om het boek op te slaan in de leeslijst. 
+Op deze website worden persoonlijke boekentips weergegeven op basis van de uitleengeschiedenis. Ook is er een optie om het boek op te slaan in de leeslijst. In dit project staat de focus op toegankelijkheid voor de gebruiker.
 
 
 ## Inhoudsopgave
