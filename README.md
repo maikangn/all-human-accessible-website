@@ -5,8 +5,11 @@ De Stichting Openbare Bibliotheek Amsterdam (OBA) is een culturele instelling, d
 ## User story #12
 > Als OBA lid wil ik op de website persoonlijke boekentips krijgen, zodat ik gestimuleerd wordt meer te lezen.
 
-# Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+* Live-url: https://maikangn.github.io/all-human-accessible-website/
+![image](https://user-images.githubusercontent.com/112856292/207362091-12c5e6bb-e7e2-4de6-926d-b56a9822e8e7.png)
+
+Op deze website worden persoonlijke boekentips weergegeven op basis van de uitleengeschiedenis. Ook is er een optie om het boek op te slaan in de leeslijst. 
+
 
 ## Inhoudsopgave
 
@@ -15,15 +18,15 @@ De Stichting Openbare Bibliotheek Amsterdam (OBA) is een culturele instelling, d
   * [Bronnen](#bronnen)
   * [Licentie](#licentie)
 
-## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
-
 ## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
+### Programmeertalen
+- HTML
+- CSS
 
-
+### Tools
+- Visual Studio Code
+- GitHub
+- iPad
 
 ## Bronnen
 
